@@ -10,12 +10,10 @@ This repository contains a collection of scripts that scrape data from Transferm
 - Provides insight into the most effective teams and leagues for player development
 
 ## Installation
-1. Clone the repository to your local machine
-2. Install the required packages using `pip install -r requirements.txt`
-3. Run the `scrape.py` script to scrape data from Transfermarkt.com
+This is an ongoing project and installation steps are not yet available.
 
 ## Usage
-To use the scraper, simply run the `scrape.py` script. The script will automatically scrape data from Transfermarkt.com and save it in a CSV file. You can then use this data for further analysis.
+This is an ongoing project and usage instructions are not yet available.
 
 ## Contributing
 Contributions to this project are welcome. To contribute, simply fork the repository and submit a pull request.
