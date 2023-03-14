@@ -24,4 +24,4 @@ Contributions to this project are welcome. To contribute, simply fork the reposi
 This project was created by [Your Name] and is licensed under the MIT License.
 
 ## Contact
-If you have any questions or suggestions for this project, please contact **Vasco Oliveira** on [LinkedIn](https://www.linkedin.com/in/vascooliveiraa/)) or by [Email](mailto:vasco.oliveira260@gmail.com).
+If you have any questions or suggestions for this project, please contact **Vasco Oliveira** on [LinkedIn](https://www.linkedin.com/in/vascooliveiraa/) or by [Email](mailto:vasco.oliveira260@gmail.com).
