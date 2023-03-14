@@ -21,7 +21,7 @@ To use the scraper, simply run the `scrape.py` script. The script will automatic
 Contributions to this project are welcome. To contribute, simply fork the repository and submit a pull request.
 
 ## Credits
-This project was created by [Vasco Oliveira] and is licensed under the MIT License.
+This project was created by **Vasco Oliveira** and is licensed under the MIT License.
 
 ## Contact
-If you have any questions or suggestions for this project, please contact [Vasco Oliveira] on [LinkedIn](https://www.linkedin.com/in/vascooliveiraa/) or by [Email](mailto:vasco.oliveira260@gmail.com).
+If you have any questions or suggestions for this project, please contact **Vasco Oliveira** on [LinkedIn](https://www.linkedin.com/in/vascooliveiraa/) or by [Email](mailto:vasco.oliveira260@gmail.com).
